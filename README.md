@@ -5,12 +5,12 @@
 <p style="color: green; font-weight: 900">120pts/140pts to pass - (85%)</p>
 
 - 50 Tasks in Trello or ZenHub, BEFORE codingGroup - `10.0 pts`
-  - must be checked off by mentors
+  - must be checked off by project manager
 - Blueprint completed with 3 views, BEFORE codingGroup - `10.0 pts`
-  - must be checked off by mentors
+  - must be checked off by project manager
 - Unit/Endpoint tests plan - `10.0 pts`
 - MVP tasks are assigned out, BEFORE coding - `10.0 pts`
-  - must be checked off by mentors
+  - must be checked off by Project Manager
 - Group commit participation - `10.0 pts`
 - 2 Unit testsIndividual (required) - `2.5pts`
 - 2 Endpoint testsIndividual (required) - `2.5pts`
@@ -42,7 +42,7 @@
 - Talk about what you got done the day prior, what you plan on getting done today, and anything you see that will block your path.
 - This should take about 1-3 minutes per team member.
   Standups are to be done with the group's mentor, so make sure to coordinate.
-- the first week standups will be at 9am (mentors should be invovled), and the second week you will be able to decide with your group an aproppriate time for standups.
+- Stand ups should be done with your Project Manager once in the morning and once after lunch, (work times out with the project manager)
 
 ### Everyone in the group has at least 15 commits
 
